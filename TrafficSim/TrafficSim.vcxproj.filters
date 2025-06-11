@@ -21,46 +21,46 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Vehicle.cpp">
-      <Filter>src</Filter>
+    <ClCompile Include="src\Direction.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Road.cpp">
-      <Filter>src</Filter>
+    <ClCompile Include="src\Intersection.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Intersection.cpp">
-      <Filter>src</Filter>
+    <ClCompile Include="src\RoadGrid.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SimulationManager.cpp">
-      <Filter>src</Filter>
+    <ClCompile Include="src\SimulationManager.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>src</Filter>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TrafficLight.cpp">
-      <Filter>src</Filter>
+    <ClCompile Include="src\TrafficLight.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Direction.cpp">
-      <Filter>src</Filter>
+    <ClCompile Include="src\Vehicle.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Vehicle.h">
-      <Filter>include</Filter>
+    <ClInclude Include="inc\Direction.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Road.h">
-      <Filter>include</Filter>
+    <ClInclude Include="inc\TrafficLight.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Intersection.h">
-      <Filter>include</Filter>
+    <ClInclude Include="inc\Intersection.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SimulationManager.h">
-      <Filter>include</Filter>
+    <ClInclude Include="inc\RoadGrid.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TrafficLight.h">
-      <Filter>include</Filter>
+    <ClInclude Include="inc\SimulationManager.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Direction.h">
-      <Filter>include</Filter>
+    <ClInclude Include="inc\Vehicle.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

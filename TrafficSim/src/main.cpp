@@ -3,7 +3,7 @@
 #include <thread>
 
 int main() {
-    SimulationManager sim(10, 10, 3);
+    SimulationManager sim(10, 10, 3); // W, H, #
     sim.initialize();
 
     const float deltaTime = 0.5f; // 0.5 sec per tick

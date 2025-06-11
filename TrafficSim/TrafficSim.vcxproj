@@ -131,7 +131,7 @@
   <ItemGroup>
     <ClCompile Include="src\Direction.cpp" />
     <ClCompile Include="src\Intersection.cpp" />
-    <ClCompile Include="src\Road.cpp" />
+    <ClCompile Include="src\RoadGrid.cpp" />
     <ClCompile Include="src\SimulationManager.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\TrafficLight.cpp" />
@@ -141,7 +141,7 @@
     <ClInclude Include="inc\Direction.h" />
     <ClInclude Include="inc\TrafficLight.h" />
     <ClInclude Include="inc\Intersection.h" />
-    <ClInclude Include="inc\Road.h" />
+    <ClInclude Include="inc\RoadGrid.h" />
     <ClInclude Include="inc\SimulationManager.h" />
     <ClInclude Include="inc\Vehicle.h" />
   </ItemGroup>

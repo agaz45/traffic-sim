@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Road.h"  // for TileType
+#include "RoadGrid.h"  // for TileType
 #include "Intersection.h" // for Direction
 
 class SimulationManager;
